@@ -9,6 +9,6 @@
 <p><strong>@Files</strong> == para uma propriedade que irá tabalhar com fotos, documentos.</p>
 <p><strong>@TextArea</strong> ==  mesma função do textarea do HTML</p>
 <p><strong>@DefaultValueCalculator</strong> == define um valor para inicializar a propriedade, o <em>OpenXava</em> já possue algumas classes como por exemplo <em>CurrentYearCalculator.class</em>, esta retorna o ano atual. Neste endereço estão os calculators do openxava ==  <a href="https://www.openxava.org/OpenXavaDoc/apidocs/org/openxava/calculators/package-summary.html" target="_blank">calculators.</a>. <strong>@DefaultValueCalculator(value=NextNumberForYearCalculator.class,
-    properties=@PropertyValue(name="year")</strong> == exemplo de aplicação, importante notar o parâmetro year sendo passado, este é um atributo que est sendo passado para a classe NextNumberForYearCalculator, ou seja, o parâmetro year esta passando um valor para ser usado pela classe NextNumberForYearCalculator.</p>
+    properties=@PropertyValue(name="year")</strong> == exemplo de aplicação, importante notar o parâmetro year sendo passado, este é um atributo que esta sendo passado para a classe NextNumberForYearCalculator, ou seja, o parâmetro year esta passando um valor para ser usado pela classe NextNumberForYearCalculator.</p>
 
 
