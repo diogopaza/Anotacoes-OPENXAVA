@@ -4,3 +4,4 @@
 <p><strong>@ReferenceView</strong> ==  </p>
 <p><strong>@DisplaySize</strong> ==  </p>
 <p><strong>@NoFrame</strong> ==  </p>
+<p><strong>@DescriptionList</strong> == cria um combo box com os objetos da propriedade definida. </p>
