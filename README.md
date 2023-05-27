@@ -8,3 +8,6 @@
 <p><strong>@Money</strong> == para definir uma propriedade que vai usar recursos referente a dinheiro.</p>
 <p><strong>@Files</strong> == para uma propriedade que irá tabalhar com fotos, documentos.</p>
 <p><strong>@TextArea</strong> ==  mesma função do textarea do HTML</p>
+<p><strong>@DefaultValueCalculator</strong> == define um valor para inicializar a propriedade, o <em>OpenXava</em> já possue algumas classes como por exemplo <em>CurrentYearCalculator.class</em>, esta retorna o ano atual.</p>
+
+
