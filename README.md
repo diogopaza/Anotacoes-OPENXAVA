@@ -1,7 +1,7 @@
 # Anotacoes-OPENXAVA
 
 <p><strong>@View(name="nomeDaView")</strong> == defini quais atributos serão mostrados na tela, pode-se criar várias <em>views</em>, de modo que outras entidades possam visualizar do modo desejado esta classe.</p>
-<p><strong>@ReferenceView</strong> ==  </p>
+<p><strong>@ReferenceView</strong> == referencia uma view especifica da entidade.A entidade cria suas views através do <emph>@View(name="", members = "")</emph> </p>
 <p><strong>@DisplaySize</strong> ==  </p>
 <p><strong>@NoFrame</strong> == não cria um quadro (frame) separando uma propriedade da outra, deixando os campos como se fosse de uma única propriedade.</p>
 <p><strong>@DescriptionList</strong> == cria um combo box com os objetos da propriedade definida. </p>
